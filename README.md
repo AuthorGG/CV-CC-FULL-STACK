@@ -21,8 +21,8 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/AuthorGG)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AuthorGG&show_icons=true&theme=radical)](https://github.com/AuthorGG)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)](https://github.com/AuthorGG)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuthorGG&layout=compact&theme=radical)](https://github.com/AuthorGG)
 
 ---
