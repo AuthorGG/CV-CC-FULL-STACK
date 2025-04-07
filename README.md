@@ -1,5 +1,5 @@
-# Hi 👋 I'm Tuto!
-**Full Stack Developer in progress 🚀 
+# Hello there, I'm Carlos!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=009FF7&width=435&lines=Web+Developer+in+progress+%F0%9F%9A%80+)](https://git.io/typing-svg)
 
 ---
 
